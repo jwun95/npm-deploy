@@ -1,5 +1,3 @@
-import { test } from "./scroll.js";
+import * as test from "./scroll.js";
 
-export default {
-  test,
-};
+test.changeColor();

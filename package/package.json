@@ -1,6 +1,6 @@
 {
   "name": "jwun95-npm",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "sandbox.js",
   "scripts": {
     "build": "rimraf css && npm run build-sass && npm run build-autoprefix && npm run build-cleancss",
@@ -19,5 +19,6 @@
     "node-sass": "^7.0.1",
     "postcss-cli": "^9.1.0",
     "rimraf": "^3.0.2"
-  }
+  },
+  "type": "module"
 }

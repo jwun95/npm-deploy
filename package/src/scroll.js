@@ -1,3 +1,4 @@
+console.log(123412)
 const scrollButton = document.querySelector(".scrollButton");
 const scrollContainer = document.querySelector(".container");
 
