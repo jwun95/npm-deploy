@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA;EACE,mBAAmB;AACrB;;AAFA;EACE,mBAAmB;AACrB;;AAFA;EACE,mBAAmB;AACrB;;AAEA;EACE,sBAAsB;AACxB","file":"index.css","sourcesContent":[":fullscreen #main p {\n  background: #3880ff;\n}\n\n.scroll-container {\n  background-color: aqua;\n}\n"]}
