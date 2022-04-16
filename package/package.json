@@ -1,7 +1,7 @@
 {
   "name": "jwun95-npm",
-  "version": "1.0.0",
-  "main": "index.scss",
+  "version": "1.0.2",
+  "main": "sandbox.js",
   "scripts": {
     "build": "rimraf css && npm run build-sass && npm run build-autoprefix && npm run build-cleancss",
     "build-sass": "node-sass --output-style expanded src/index.scss ./css/index.css",
